@@ -23,4 +23,4 @@ Tenho 21 anos, desde meu primeiro contato com um computador aos 3 anos, cresci u
 <hr>
 
 ## Estatísticas
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lzdavic&show_icons=true&locale=en&layout=compact" alt="lzdavic" /></p><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lzdavic&" alt="lzdavic" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lzdavic&show_icons=true&locale=en&layout=compact" alt="lzdavic" /></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lzdavic&" alt="lzdavic" /></p>
