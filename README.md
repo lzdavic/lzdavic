@@ -2,7 +2,7 @@
 # Olá, me chamo Luiz Davi!
 
 
-## 🚀 
+## 🚀 Sobre Mim
 Tenho 21 anos, desde meu primeiro contato com um computador aos 3 anos, cresci utilizando e amando tecnologia.
 
 <hr>
