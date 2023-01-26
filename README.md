@@ -7,7 +7,7 @@ Tenho 21 anos, desde meu primeiro contato com um computador aos 3 anos, cresci u
 
 <hr>
 
-🧠 No momento estou estudando JavaScript, HTML e CSS
+🧠 No momento estou estudando, Typescript JavaScript, HTML e CSS
 
 📫 Contato - lzdavicc@gmail.com
 
