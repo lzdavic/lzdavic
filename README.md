@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre Mim
-Tenho 21 anos, desde meu primeiro contato com um computador aos 3 anos, cresci utilizando cada vez mais desenvoldo um amor pela tecnologia.
+Tenho 21 anos, desde meu primeiro contato com um computador cresci utilizando tecnologia cada vez mais e meu dia-a-dia.
 
 <hr>
 
