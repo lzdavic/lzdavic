@@ -25,7 +25,7 @@ I'm a passionate student aiming to become a software engineer, currently residin
 
 ## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzdavicc&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzdavic&show_icons=true)
 
 ## My Recent Projects
 
